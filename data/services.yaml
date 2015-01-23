@@ -164,16 +164,6 @@ expresscoin:
       <p>Fast, easy and safe way to buy Bitcoin, Dogecoin, Litecoin and other alt coins using your debit card.</p>
   coins: [btc]
 
-btcguys:
-  label: BTC Guys LLC
-  icon: http://www.btcguys.us/uploads/2/8/9/0/28903049/244012578604682008/favpreview.gif
-  countries: [us, ca, uk]
-  location: [us, ca, uk]
-  url: http://www.btcguys.us
-  content: |
-          <p>Buy Bitcoin fast and easy. We are based in New York. There are no sign up forms required/no delays. Our rates and exchange rate is competitive.</p>
-  coins: [btc]        
-
 brawker:
   label: Brawker
   icon: https://brawker.com/favicon.png
@@ -214,15 +204,6 @@ cryptsy:
   url: https://www.cryptsy.com/
   content: Trade over 60 different types of cryptocurrencies.
   coins: [ALF, AMC, ANC, ARG, BQC, BTB, BTE, BTG, BUK, CAP, CGB, CLR, CMC, CRC, CSC, DGC, DMD, ELC, EMD, FRC, FRK, FST, FTC, GDC, GLC, GLD, GLX, HBN, IXC, KGC, LK7, LKY, LTC, MEC, MNC, NBL, NEC, NMC, NRB, NVC, PHS, PPC, PTS, PXC, PYC, QRK, SBC, SPT, SRC, TAG, TEK, TRC, WDC, XJO, XPM, YAC, ZET]
-
-coinrnr:
-  label: CoinRnr
-  countries: [us, ca]
-  location: [us]
-  icon: https://www.coinrnr.com/favicon.ico
-  url: https://www.coinrnr.com
-  content: Purchase bitcoin by cash deposit, wire transfer, INTERAC® Online, or Credit/Debit Card and receive it on the same day!
-  coins: [btc]
 
 coinsph:
   icon: https://coins.ph/static/img/favicon.png
@@ -422,16 +403,6 @@ bitcoin-central:
   content: An exchange based in France which primarily trades between Bitcoins and Euros.
   coins: [btc]
 
-bitcoinschile:
-  label: BitcoinsChile.cl
-  countries: [cl, us, uk, au, ca, fr, de, in, it, mx, ph, ru, es, at, be, dk, ee, fi, gr, ie, lu, nl, no, pl, pt, se, ch]
-  location: [cl]
-  icon: http://portal.bitcoinschile.cl/wp-content/uploads/2012/10/favicon2.ico
-  url: http://portal.bitcoinschile.cl/
-  content: |
-      <p>Buy bitcoins by bank transfer (Chile only), or by Western Digital or Moneygram (US, some of Europe, India, others.).</p>
-  coins: [btc]
-
 mengmengbi:
   label: Mengmengbi.cn
   countries: [cn]
@@ -580,32 +551,6 @@ bitcoinde:
       <p>Market for buying and selling bitcoin. Accepts SEPA bank transfers from anywhere in Europe.</p>
   coins: [btc]
 
-bitcoinnordic:
-  countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb,  ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  icon: /favicon.png
-  label: Bitcoin Nordic
-  url: https://www.bitcoinnordic.com/
-  content: |
-    <p>On Bitcoin Nordic you can purchase bitcoins using international bank transfers from any country and CashU prepaid cards sold in North Africa and the Middle East.</p>
-    <p>In addition, UKash vouchers sold in any country including Central and South America can be exchanged to CashU and then used to purchase bitcoins on Bitcoin Nordic.</p>
-  coins: [btc]
-
-exante:
-  countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb,  ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  icon: /favicon.png
-  label: EXANTE Bitcoin Fund
-  url: http://exante.eu/products/BTC/
-  content: |
-    <p>1 Fund share = 1 bitcoin
-       <ul>
-         <li>Any amount (from 10,000 Euros) -- <br />Fund holds 92 000 bitcoins</li>
-         <li>Fund shares can be on balance sheet</li>
-         <li>Faster execution of orders -- Fund has best execution from Mt.Gox and other markets as a major player</li>
-         <li>Fund manages wallet security</li>
-       </ul>
-    </p>
-  coins: [btc]
-
 xcfd:
   countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb,  ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
   icon: /favicon.png
@@ -669,17 +614,6 @@ bitmarket:
   url: https://bitmarket.co
   content: |
       <p>Exchange based in Colombia.</p>
-  coins: [btc]
-
-btc-dealer:
-  label: BTC-Dealer
-  countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb, ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  icon: /favicon.png
-  url: http://btc-dealer.com/
-  content: |
-      <p>Payment methods accepted:<br />
-      Credit card via Liqpay
-      </p>
   coins: [btc]
 
 bitcoinsnorge:
@@ -856,38 +790,11 @@ localbitcoins:
       <p>In-person trading. Find someone in your local area who trades bitcoins for cash, and arrange to meet them in person.</p>
   coins: [btc]
 
-tradebitcoin:
-  label: TradeBitcoin.com
-  location: [ca]
+bitcoin-otc:
+  label: Bitcoin-OTC
   countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb, ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  icon: /favicon.png
-  url: http://www.tradebitcoin.com/
-  content: |
-      <p>In-person trading. Find someone in your local area who trades bitcoins for cash, and arrange to meet them in person.</p>
-  coins: [btc]
-
-bitcoinit:
-  label: Bitcoin Wiki's OTC
-  countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb, ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  icon: https://en.bitcoin.it/favicon.ico
-  url: https://en.bitcoin.it/wiki/Bitcoin_OTC
-  content: | <p>Over-the-counter exchange. Find a direct seller online to buy and sell bitcoin with.</p>
-  coins: [btc]
-
-bitcoinary:
-  label: Bitcoinary.com's OTC
-  countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb, ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  icon: /favicon.png
-  content: |
-      <p>Over-the-counter exchange. Find a direct seller online to buy and sell bitcoin with.</p>
-  coins: [btc]
-
-bitcointalk-otc:
-  label: BitcoinTalk Forum's OTC
-  countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb, ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  icon: https://bitcointalk.org/favicon.ico
-  label: BitcoinTalk Forum's OTC
-  url: https://bitcointalk.org/index.php?board=53.0
+  icon: https://bitcoin-otc.com/favicon.ico
+  url: http://bitcoin-otc.com/
   content: | <p>Over-the-counter exchange. Find a direct seller online to buy and sell bitcoin with.</p>
   coins: [btc]
 
@@ -896,7 +803,7 @@ cavirtex:
   location: [ca]
   icon: /favicon.png
   label: Canadian Virtual Exchange (CAVIRTEX)
-  url: affiliates.cavirtex.com/trade-bitcoin-the-canadian-way/53324/
+  url: https://cavirtex.com/home
   content: |<p>CAVIRTEX is Canada's oldest and largest Bitcoin exchange. In its 3 years of operation,  CAVIRTEX has facilitated over $90 Million in trading between individuals, merchants, and Bitcoin ATMs (BTMs). In addition to being an exchange, CAVIRTEX offers merchant solutions, debit cards and BTM services.<br />Deposit options include:</p><ul><li>In-Person Cash Bill Payments</li> <li>Direct EFT with Canadian Banks</li><li>Interac Online </li><li>Online BIll Payment Option</li><li>Wire Transfer</li></ul>
   coins: [btc, LTC]
 
@@ -917,15 +824,6 @@ virwox:
   url: https://www.virwox.com
   content: | <p>VirWoX is currently the only exchange where you can buy BTC with PayPal and Credit Cards (among other payment methods).</p> <p><a href="http://buybitcoinspaypal.com/buy-bitcoins-with-paypal/">How to buy Bitcoins with VirWox.</a></p>
   coins: [btc]
-
-vaultofsatoshi:
-  countries: [ca]
-  location: [ca]
-  icon: /favicon.png
-  label: Vault of Satoshi
-  url: https://www.vaultofsatoshi.com/
-  content: |<p>A new Canadian company offering all of its services at 0.5%. Buy/Sell Bitcoin, Litecoin and Peercoin. Supports deposit/withdrawal by e-wallet, deposits by cheque or wire transfer. </p>
-  coins: [btc, ltc, ppc]
 
 inrbtc:
   countries: [in]
@@ -976,7 +874,7 @@ justcoin:
   label: Justcoin Exchange
   countries: [al, ad, be, ba, bg, dk, ee, fi, fr, fo, gi, gl, gg, gr, ie, is, im, it, je, hr, cy, lv, li, lt, lu, mk, mt, mu, mc, me, nl, no, pl, pt, ro, sm, rs, sk, si, es, uk, ch, se, cz, tn, tr, de, hu, at, us, ca, au, nz, br, cr, mx, za]
   location: [no]
-  icon: https://justcoin.com/favicon.png
+  icon: /favicon.png
   url: https://justcoin.com
   content: Justcoin Exchange is a secure Bitcoin exchange from Norway. Customers can deposit EUR, USD, and NOK.
   coins: [btc, ltc, xrp]
@@ -1054,7 +952,7 @@ coinmama:
   label: CoinMama
   countries: [us, uk, au, fr, ca, jp, cn, be, cy, cz, dk, eg, fi, gr, hk, in, is, it, mx, nl, nz, no, pa, pu, pl, pt, se, ch, es]
   location: [gi]
-  icon: https://www.coinmama.com/favicon.ico
+  icon: /favicon.ico
   url: https://www.coinmama.com/
   content:  The easiest and fastest way to buy virtual currency Worldwide! CoinMama allows you to buy Bitcoins and Litecoins with your credit card, Western Union, MoneyGram, Perfect Money and more!
   coins: [btc, ltc]
